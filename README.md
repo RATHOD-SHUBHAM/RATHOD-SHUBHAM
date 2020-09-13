@@ -6,10 +6,12 @@
 - A full stack developer .. 🤠
 - Check out my Repo for some cool content! .. 🤓
 
+##### - ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜
+
 #### My interests 😎
 - 📊 DataScience 📈  ... ☁️Cloud🌨 ... Web🕸 ... Application📲 ... Software Development🤩
 
-- ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜
+
 
 #### 📫 How to reach me? 
   ⦿ Visit my [Portfolio](https://rathod2441996.wixsite.com/mysite) 🌐 <br>
