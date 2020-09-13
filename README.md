@@ -13,9 +13,9 @@
 
 
 
-#### 📫 How to reach me? 
+#### 📫 How to reach me?
+  ⦿ Checkout my perrsonal [Website](http://shankarshubham.uta.cloud/Shankar_portfolio/home.php) 💻 <br>
   ⦿ Visit my [Portfolio](https://rathod2441996.wixsite.com/mysite) 🌐 <br>
-  ⦿ Checkout [Website](http://shankarshubham.uta.cloud/Shankar_portfolio/home.php) 💻 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar-013758198/)  <br>
   ⦿ Follow me on [Github](https://github.com/RATHOD-SHUBHAM) 🤪 <br>
   ⦿ Shoot Me an [Email](mailto:shubham.uta@gmail.com) 💌 <br>
