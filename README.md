@@ -85,6 +85,7 @@
 
 [<img align="left" alt="angular" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwUXD17prFtnvxtGWIzQ6wiktS2AzY0RRo6w&usqp=CAU" />](https://docs.angularjs.org/api)
 
-
+<br />
+<br />
 --- 
 
