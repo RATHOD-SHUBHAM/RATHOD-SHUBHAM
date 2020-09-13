@@ -102,7 +102,7 @@
 
 [<img align="left" alt="Aws" width="30px" src="https://novadba.com/wp-content/uploads/2020/03/aws.png" />](https://aws.amazon.com)
 
-[<img align="left" alt="azure" width="35px" src="https://i1.wp.com/www.rinnovocorp.com/wp-content/uploads/2017/10/baas-page-images-04.png?fit=640%2C401&ssl=1" />](https://azure.microsoft.com/en-us/)
+[<img align="left" alt="azure" width="30px" src="https://i1.wp.com/www.rinnovocorp.com/wp-content/uploads/2017/10/baas-page-images-04.png?fit=640%2C401&ssl=1" />](https://azure.microsoft.com/en-us/)
 
 [<img align="left" alt="ibm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png" />](https://www.ibm.com/cloud)
 
