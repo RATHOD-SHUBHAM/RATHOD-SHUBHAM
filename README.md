@@ -100,7 +100,7 @@
 
 #### Cloud:
 
-[<img align="left" alt="Aws" width="40px" src="https://novadba.com/wp-content/uploads/2020/03/aws.png" />](https://aws.amazon.com)
+[<img align="left" alt="Aws" width="35px" src="https://novadba.com/wp-content/uploads/2020/03/aws.png" />](https://aws.amazon.com)
 
 [<img align="left" alt="azure" width="35px" src="https://i1.wp.com/www.rinnovocorp.com/wp-content/uploads/2017/10/baas-page-images-04.png?fit=640%2C401&ssl=1" />](https://azure.microsoft.com/en-us/)
 
