@@ -9,10 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - Data makes me fall in love with it 🖤  ...
 - 💬 Ask me about ...
-### 📫 How to reach me? 
-
-  ⦿ Visit my [Portfolio](https://rathod2441996.wixsite.com/mysite) 🌐 <br>
-  ⦿ Visit my [Website](https://rathod2441996.wixsite.com/mysite) 🌐 <br>
 
 - ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜
 -->
