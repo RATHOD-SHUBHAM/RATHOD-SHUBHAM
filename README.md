@@ -1,8 +1,9 @@
-### Hello World, its me Shubham! 👋
+### Hello World, 😷 its me Shubham! 👋
 
 - A Grad student ...👻...   exploring possiblities 🎓 ...
 - 👾 I have a simple goal: Develop products that improve human lives ...
 - Data makes me fall in love with it 🖤  ...
+- A full stack developer .. 🤠
 - Check out my Repo for some cool content! .. 🤓
 
 #### My interests 😎
