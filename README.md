@@ -13,6 +13,8 @@
 - Application
 - Software🤩
 
+- ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜
+
 #### 📫 How to reach me? 
   ⦿ Visit my [Portfolio](https://rathod2441996.wixsite.com/mysite) 🌐 <br>
   ⦿ Checkout [Website](http://shankarshubham.uta.cloud/Shankar_portfolio/home.php) 💻 <br>
@@ -20,7 +22,6 @@
   ⦿ Follow me on [Github](https://github.com/RATHOD-SHUBHAM) 🤪 <br>
   ⦿ Shoot Me an [Email](mailto:shubham.uta@gmail.com) 💌 <br>
 
-- ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜
 
 #### Language:
 
