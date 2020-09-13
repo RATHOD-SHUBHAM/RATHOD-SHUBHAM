@@ -25,11 +25,11 @@
 
 #### Language:
 
-[<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://devdocs.io/c/)
+[<img align="left" alt="C" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://devdocs.io/c/)
 
-[<img align="left" alt="Python" width="26px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
+[<img align="left" alt="Python" width="28px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
 
-[<img align="left" alt="Kotlin" width="26px" src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" />](https://kotlinlang.org)
+[<img align="left" alt="Kotlin" width="28px" src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" />](https://kotlinlang.org)
 
 [<img align="left" alt="Dart" width="40px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/227/landscape/dart-logo.png" />](https://dart.dev)
 
@@ -51,11 +51,11 @@
 
 [<img align="left" alt="numpy" width="30px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />](https://numpy.org)
 
-[<img align="left" alt="pandas" width="30px" src="https://staging.academy.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />](https://pandas.pydata.org/docs/)
+[<img align="left" alt="pandas" width="33px" src="https://staging.academy.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />](https://pandas.pydata.org/docs/)
 
-[<img align="left" alt="sklearn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />](https://scikit-learn.org/stable/)
+[<img align="left" alt="sklearn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />](https://scikit-learn.org/stable/)
 
-[<img align="left" alt="keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />](https://keras.io)
+[<img align="left" alt="keras" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />](https://keras.io)
 
 [<img align="left" alt="pytorch" width="30px" src="https://pytorch.org/assets/images/pytorch-logo.png" />](https://pytorch.org)
 
