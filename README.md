@@ -67,7 +67,7 @@
 
 [<img align="left" alt="nltk" width="26px" src="https://i2.wp.com/clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png?resize=592%2C644&ssl=1" />](https://www.nltk.org)
 
-[<img align="left" alt="react" width="40px" src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" />](https://reactjs.org)
+[<img align="left" alt="react" width="40px" src="https://i.pinimg.com/originals/84/b1/06/84b1065e798f61aa80b8670a4b6fbb4d.png" />](https://reactjs.org)
 
 <br />
 <br />
