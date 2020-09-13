@@ -55,7 +55,7 @@
 
 [<img align="left" alt="sklearn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />](https://scikit-learn.org/stable/)
 
-[<img align="left" alt="keras" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />](https://keras.io)
+[<img align="left" alt="keras" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />](https://keras.io)
 
 [<img align="left" alt="pytorch" width="30px" src="https://pytorch.org/assets/images/pytorch-logo.png" />](https://pytorch.org)
 
