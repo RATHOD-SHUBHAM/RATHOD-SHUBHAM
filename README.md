@@ -79,7 +79,7 @@
 
 [<img align="left" alt="flask" width="30px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />](https://flask.palletsprojects.com/en/1.1.x/)
 
-[<img align="left" alt="flutter" width="30px" src="https://static.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png" />](https://flutter.dev)
+[<img align="left" alt="flutter" width="35px" src="https://static.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png" />](https://flutter.dev)
 
 [<img align="left" alt="laravel" width="30px" src="https://ucarecdn.com/9c22d51e-c92a-4483-8f3a-d16bccd0fb50/" />](https://laravel.com)
 
