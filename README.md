@@ -4,7 +4,7 @@
 - 👾 I have a simple goal: Develop products that improve human lives ...
 - Data makes me fall in love with it 🖤  ...
 
-- ### 📫 How to reach me? 
+### 📫 How to reach me? 
   ⦿ Visit my [Portfolio](https://rathod2441996.wixsite.com/mysite) 🌐 <br>
   ⦿ Checkout [Website](http://shankarshubham.uta.cloud/Shankar_portfolio/home.php) 💻 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar-013758198/)  <br>
