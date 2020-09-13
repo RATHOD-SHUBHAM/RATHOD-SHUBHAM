@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 
   ⦿ Visit my [Portfolio](https://rathod2441996.wixsite.com/mysite) 🌐 <br>
   ⦿ Visit my [Website](https://rathod2441996.wixsite.com/mysite) 🌐 <br>
-  
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/itsksaurabh/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:itsksaurabh@gmail.com) 💌 <br>
 
 - ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜
 -->
