@@ -7,10 +7,10 @@
 - Check out my Repo for some cool content! .. 🤓
 
 #### My interests 😎
-- DataScience 😍
-- Cloud
-- Web
-- Application
+- DataScience 😍 ...
+- Cloud ...
+- Web ...
+- Application ...
 - Software🤩
 
 - ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜
