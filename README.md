@@ -1,18 +1,18 @@
-#### Hello World, its me Shubham! 👋
+### Hello World, its me Shubham! 👋
 
 - A Grad student ...👻...   exploring possiblities 🎓 ...
 - 👾 I have a simple goal: Develop products that improve human lives ...
 - Data makes me fall in love with it 🖤  ...
 - Check out my Repo for some cool content! .. 🤓
 
-### My interests 😎
+#### My interests 😎
 - DataScience 😍
 - Cloud
 - Web
 - Application
 - Software🤩
 
-### 📫 How to reach me? 
+#### 📫 How to reach me? 
   ⦿ Visit my [Portfolio](https://rathod2441996.wixsite.com/mysite) 🌐 <br>
   ⦿ Checkout [Website](http://shankarshubham.uta.cloud/Shankar_portfolio/home.php) 💻 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar-013758198/)  <br>
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜
 
-### Languages and Tools:
+#### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />](https://www.tensorflow.org/)
