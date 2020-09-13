@@ -30,7 +30,7 @@
 
 [<img align="left" alt="Kotlin" width="26px" src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" />](https://kotlinlang.org)
 
-[<img align="left" alt="Dart" width="26px" src="https://image.pngaaa.com/400/23400-middle.png" />](https://dart.dev)
+[<img align="left" alt="Dart" width="36px" src="https://image.pngaaa.com/400/23400-middle.png" />](https://dart.dev)
 
 [<img align="left" alt="HTML5" width="26px" src="https://pngimage.net/wp-content/uploads/2018/06/png-in-html-6.png" />](https://devdocs.io/html/)
 
