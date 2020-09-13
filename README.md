@@ -46,5 +46,29 @@
 <br />
 <br />
 
+
+#### Language:
+
+[<img align="left" alt="numpy" width="26px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />](https://numpy.org)
+
+[<img align="left" alt="pandas" width="26px" src="https://staging.academy.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />](https://pandas.pydata.org/docs/)
+
+[<img align="left" alt="sklearn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />](https://scikit-learn.org/stable/)
+
+[<img align="left" alt="keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />](https://keras.io)
+
+[<img align="left" alt="pytorch" width="33px" src="https://pytorch.org/assets/images/pytorch-logo.png" />](https://pytorch.org)
+
+[<img align="left" alt="seabron" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsZzYW4vSHL6u-h-F9nZge4rfvScSMU6CWBA&usqp=CAU" />](https://seaborn.pydata.org)
+
+[<img align="left" alt="matplotlib" width="26px" src="https://matplotlib.org/3.3.0/_static/logo2_compressed.svg" />](https://matplotlib.org)
+
+[<img align="left" alt="turtle" width="40px" src="https://docs.python.org/3/_images/turtle-star.png" />](https://docs.python.org/3/library/turtle.html)
+
+[<img align="left" alt="nltk" width="40px" src="https://i2.wp.com/clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png?resize=592%2C644&ssl=1" />](https://www.nltk.org)
+
+<br />
+<br />
+
 --- 
 
