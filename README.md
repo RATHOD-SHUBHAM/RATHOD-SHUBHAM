@@ -25,11 +25,11 @@
 
 #### Language:
 
-[<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://devdocs.io/c/)
+[<img align="left" alt="C" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://devdocs.io/c/)
 
-[<img align="left" alt="Python" width="26px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
+[<img align="left" alt="Python" width="30px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
 
-[<img align="left" alt="Kotlin" width="26px" src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" />](https://kotlinlang.org)
+[<img align="left" alt="Kotlin" width="30px" src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" />](https://kotlinlang.org)
 
 [<img align="left" alt="Dart" width="40px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/227/landscape/dart-logo.png" />](https://dart.dev)
 
