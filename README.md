@@ -67,8 +67,24 @@
 
 [<img align="left" alt="nltk" width="26px" src="https://i2.wp.com/clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png?resize=592%2C644&ssl=1" />](https://www.nltk.org)
 
+[<img align="left" alt="react" width="30px" src="https://reactjs.org/logo-og.png" />](https://reactjs.org)
+
 <br />
 <br />
+
+
+#### Framework:
+
+[<img align="left" alt="django" width="30px" src="https://xebialabs.com/wp-content/uploads/2018/10/django-logo.jpg" />](https://www.djangoproject.com)
+
+[<img align="left" alt="flask" width="30px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />](https://flask.palletsprojects.com/en/1.1.x/)
+
+[<img align="left" alt="flutter" width="30px" src="https://static.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png" />](https://flutter.dev)
+
+[<img align="left" alt="laravel" width="30px" src="https://ucarecdn.com/9c22d51e-c92a-4483-8f3a-d16bccd0fb50/" />](https://laravel.com)
+
+[<img align="left" alt="angular" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwUXD17prFtnvxtGWIzQ6wiktS2AzY0RRo6w&usqp=CAU" />](https://docs.angularjs.org/api)
+
 
 --- 
 
