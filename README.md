@@ -1,8 +1,16 @@
-### Hello World, its me Shubham! 👋
+#### Hello World, its me Shubham! 👋
 
 - A Grad student ...👻...   exploring possiblities 🎓 ...
 - 👾 I have a simple goal: Develop products that improve human lives ...
 - Data makes me fall in love with it 🖤  ...
+- Check out my Repo for some cool content! .. 🤓
+
+### My interests 😎
+- DataScience 😍
+- Cloud
+- Web
+- Application
+- Software🤩
 
 ### 📫 How to reach me? 
   ⦿ Visit my [Portfolio](https://rathod2441996.wixsite.com/mysite) 🌐 <br>
@@ -33,4 +41,6 @@
 <br />
 <br />
 
----
+--- 
+
+
