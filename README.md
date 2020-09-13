@@ -55,13 +55,13 @@
 
 [<img align="left" alt="sklearn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />](https://scikit-learn.org/stable/)
 
-[<img align="left" alt="keras" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />](https://keras.io)
+[<img align="left" alt="keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />](https://keras.io)
 
-[<img align="left" alt="pytorch" width="33px" src="https://pytorch.org/assets/images/pytorch-logo.png" />](https://pytorch.org)
+[<img align="left" alt="pytorch" width="30px" src="https://pytorch.org/assets/images/pytorch-logo.png" />](https://pytorch.org)
 
 [<img align="left" alt="seabron" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsZzYW4vSHL6u-h-F9nZge4rfvScSMU6CWBA&usqp=CAU" />](https://seaborn.pydata.org)
 
-[<img align="left" alt="matplotlib" width="40px" src="https://matplotlib.org/3.3.0/_static/logo2_compressed.svg" />](https://matplotlib.org)
+[<img align="left" alt="matplotlib" width="40px" src="https://ecshackweek.github.io/img/tutorials/python-packages/matplotlib.png" />](https://matplotlib.org)
 
 [<img align="left" alt="turtle" width="26px" src="https://docs.python.org/3/_images/turtle-star.png" />](https://docs.python.org/3/library/turtle.html)
 
