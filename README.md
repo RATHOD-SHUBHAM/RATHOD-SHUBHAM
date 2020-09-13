@@ -61,7 +61,7 @@
 
 [<img align="left" alt="seabron" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsZzYW4vSHL6u-h-F9nZge4rfvScSMU6CWBA&usqp=CAU" />](https://seaborn.pydata.org)
 
-[<img align="left" alt="matplotlib" width="40px" src="https://ecshackweek.github.io/img/tutorials/python-packages/matplotlib.png" />](https://matplotlib.org)
+[<img align="left" alt="matplotlib" width="40px" src="https://matplotlib.org/3.3.0/_images/sphx_glr_logos2_thumb.png" />](https://matplotlib.org)
 
 [<img align="left" alt="turtle" width="26px" src="https://docs.python.org/3/_images/turtle-star.png" />](https://docs.python.org/3/library/turtle.html)
 
