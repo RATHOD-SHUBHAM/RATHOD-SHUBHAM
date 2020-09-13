@@ -87,5 +87,29 @@
 
 <br />
 <br />
+
+#### Cloud:
+
+[<img align="left" alt="Aws" width="30px" src="https://softwareengineeringdaily.com/wp-content/uploads/2020/05/aws_logo_smile_1200x630.png" />](https://aws.amazon.com)
+
+[<img align="left" alt="azure" width="30px" src="https://i1.wp.com/www.rinnovocorp.com/wp-content/uploads/2017/10/baas-page-images-04.png?fit=640%2C401&ssl=1" />](https://azure.microsoft.com/en-us/)
+
+[<img align="left" alt="ibm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png" />](https://www.ibm.com/cloud)
+
+<br />
+<br />
+
+
+
+#### Database:
+
+[<img align="left" alt="mongo" width="30px" src="https://xebialabs.com/wp-content/uploads/2018/10/django-logo.jpg" />](https://www.djangoproject.com)
+
+[<img align="left" alt="mysql" width="30px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />](https://flask.palletsprojects.com/en/1.1.x/)
+
+<br />
+<br />
+
+
 --- 
 
