@@ -9,12 +9,12 @@
 ##### - ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜
 
 #### My interests 😎
-- 📊 DataScience 📈  ... ☁️Cloud🌨 ... Web🕸 ... Application📲 ... Software Development🤩
+- 📊 DataScience 📈  ... 📑 DataBase 📦 ... ☁️Cloud🌨Computing ... Web🕸Development ... Application📲Development ... Software Development🤩
 
 
 
 #### 📫 How to reach me?
-  ⦿ Checkout my perrsonal [Website](http://shankarshubham.uta.cloud/Shankar_portfolio/home.php) 💻 <br>
+  ⦿ Checkout my personal [Website](http://shankarshubham.uta.cloud/Shankar_portfolio/home.php) 💻 <br>
   ⦿ Visit my [Portfolio](https://rathod2441996.wixsite.com/mysite) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar-013758198/)  <br>
   ⦿ Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories) 🤪 <br>
