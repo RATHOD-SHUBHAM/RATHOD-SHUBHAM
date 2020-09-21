@@ -7,7 +7,7 @@
 - Check out my Repo for some cool content! .. 🤓
 
 ##### - ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜
-##### - 📚 Noevl + Music 🎶. ---> My kind of chill.
+##### - 📚 Noevl + Music 🎶 ---> My kind of chill.
 
 #### My interests 😎
 - 📊 DataScience 📈  ... 📑 DataBase 📦 ... ☁️Cloud🌨Computing ... Web🕸Development ... Application📲Development ... Software Development🤩
