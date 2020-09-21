@@ -84,7 +84,7 @@
 
 #### Framework:
 
-[<img align="left" alt="django" width="40px" src="https://xebialabs.com/wp-content/uploads/2018/10/django-logo.jpg" />](https://www.djangoproject.com)
+[<img align="left" alt="django" width="40px" src="https://miro.medium.com/max/600/1*grQtRddJZ6pLErj2yeRYPA.png" />](https://www.djangoproject.com)
 
 [<img align="left" alt="flask" width="30px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />](https://flask.palletsprojects.com/en/1.1.x/)
 
