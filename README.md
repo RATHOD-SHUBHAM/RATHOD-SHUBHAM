@@ -92,7 +92,7 @@
 
 [<img align="left" alt="laravel" width="30px" src="https://ucarecdn.com/9c22d51e-c92a-4483-8f3a-d16bccd0fb50/" />](https://laravel.com)
 
-[<img align="left" alt="angular" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwUXD17prFtnvxtGWIzQ6wiktS2AzY0RRo6w&usqp=CAU" />](https://docs.angularjs.org/api)
+[<img align="left" alt="angular" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwUXD17prFtnvxtGWIzQ6wiktS2AzY0RRo6w&usqp=CAU" />](https://docs.angularjs.org/api)
 
 <br />
 <br />
