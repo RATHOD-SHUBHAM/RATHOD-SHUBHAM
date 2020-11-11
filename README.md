@@ -15,10 +15,11 @@
 
 
 #### 📫 How to reach me?
+  ⦿ Visit my [Portfolio](https://eager-hodgkin-86bab0.netlify.app/) 🌐 <br>
   ⦿ Checkout my personal [Website](http://shankarshubham.uta.cloud/Shankar_portfolio/home.php) 💻 <br>
-  ⦿ Visit my [Portfolio](https://rathod2441996.wixsite.com/mysite) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar-013758198/)  <br>
   ⦿ Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories) 🤪 <br>
+  ⦿ Checkout my Youtube [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0t3hU_6ApIhFVxNhBwHxBQ) 🖥 <br>
   ⦿ Shoot Me an [Email](mailto:shubham.uta@gmail.com) 💌 <br>
 
 
