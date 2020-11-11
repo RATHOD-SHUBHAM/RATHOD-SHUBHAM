@@ -19,7 +19,7 @@
   ⦿ Checkout my personal [Website](http://shankarshubham.uta.cloud/Shankar_portfolio/home.php) 💻 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar-013758198/)  <br>
   ⦿ Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories) 🤪 <br>
-  ⦿ Checkout my [Youtube] video(https://www.youtube.com/playlist?list=PLe-rtwou_fp0t3hU_6ApIhFVxNhBwHxBQ) 🖥 <br>
+  ⦿ Checkout my video on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0t3hU_6ApIhFVxNhBwHxBQ) 🖥 <br>
   ⦿ Shoot Me an [Email](mailto:shubham.uta@gmail.com) 💌 <br>
 
 
