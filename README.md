@@ -17,7 +17,7 @@
 #### 📫 How to reach me?
   ⦿ Visit my [Portfolio](https://eager-hodgkin-86bab0.netlify.app/) 🌐 <br>
   ⦿ Checkout my personal [Website](http://shankarshubham.uta.cloud/Shankar_portfolio/home.php) 💻 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar-013758198/)  <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar-013758198/) 🤝 <br>
   ⦿ Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories) 🤪 <br>
   ⦿ Checkout my video on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0t3hU_6ApIhFVxNhBwHxBQ) 🖥 <br>
   ⦿ View my certifications [here](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing) 📈🔖 <br>
