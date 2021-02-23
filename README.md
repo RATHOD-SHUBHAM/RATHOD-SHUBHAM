@@ -10,13 +10,12 @@
 ##### - 📚 Novel + Music 🎶 ---> My kind of chill.
 
 #### My interests 😎
-- 📊 DataScience 📈  ... 📑 DataBase 📦 ... ☁️Cloud🌨Computing ... Web🕸Development ... Application📲Development ... Software Development🤩
+- Web🕸Development ... Application📲Development ... Software Development🤩... 📑 DataBase 📦 ... ☁️Cloud🌨Computing ...📊 DataScience 📈.   
 
 
 
 #### 📫 How to reach me?
-  ⦿ Visit my [Portfolio](https://ecstatic-yonath-c62284.netlify.app) 🌐 <br>
-  ⦿ Checkout my personal [Website](http://shankarshubham.uta.cloud/Shankar_portfolio/home.php) 💻 <br>
+  ⦿ Check out my [Portfolio](https://elated-borg-3f9e72.netlify.app) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar-013758198/) 🤝 <br>
   ⦿ Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories) 🤪 <br>
   ⦿ Checkout my video on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0t3hU_6ApIhFVxNhBwHxBQ) 🖥 <br>
