@@ -27,15 +27,15 @@
 
 [<img align="left" alt="C" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://devdocs.io/c/)
 
-[<img align="left" alt="Python" width="28px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
+[<img align="left" alt="Python" width="27px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
 
-[<img align="left" alt="Java" width="40px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />](https://www.php.net/docs.php)
+[<img align="left" alt="Java" width="41px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />](https://www.php.net/docs.php)
 
-[<img align="left" alt="HTML5" width="33px" src="https://pngimage.net/wp-content/uploads/2018/06/png-in-html-6.png" />](https://devdocs.io/html/)
+[<img align="left" alt="HTML5" width="31px" src="https://pngimage.net/wp-content/uploads/2018/06/png-in-html-6.png" />](https://devdocs.io/html/)
 
-[<img align="left" alt="CSS3" width="26px" src="https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/" />](https://devdocs.io/css/)
+[<img align="left" alt="CSS3" width="25px" src="https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/" />](https://devdocs.io/css/)
 
-[<img align="left" alt="JavaScript" width="26px" src="https://coryrylan.com/assets/images/posts/types/javascript-1280x960.png" />](https://devdocs.io/javascript/)
+[<img align="left" alt="JavaScript" width="25px" src="https://coryrylan.com/assets/images/posts/types/javascript-1280x960.png" />](https://devdocs.io/javascript/)
 
 [<img align="left" alt="Node.js" width="40px" src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/10/nodejs.png?fit=1240%2C700&ssl=1" />](https://nodejs.org/en/)
 
