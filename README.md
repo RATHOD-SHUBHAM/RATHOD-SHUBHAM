@@ -29,7 +29,7 @@
 
 [<img align="left" alt="Python" width="28px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
 
-[<img align="left" alt="Java" width="30px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />](https://www.php.net/docs.php)
+[<img align="left" alt="Java" width="35px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />](https://www.php.net/docs.php)
 
 [<img align="left" alt="HTML5" width="33px" src="https://pngimage.net/wp-content/uploads/2018/06/png-in-html-6.png" />](https://devdocs.io/html/)
 
@@ -104,7 +104,7 @@
 
 [<img align="left" alt="Aws" width="30px" src="https://novadba.com/wp-content/uploads/2020/03/aws.png" />](https://aws.amazon.com)
 
-[<img align="left" alt="azure" width="33px" src="https://integration.team/wp-content/uploads/2019/07/azure-239x300.png" />](https://azure.microsoft.com/en-us/)
+[<img align="left" alt="azure" width="31px" src="https://integration.team/wp-content/uploads/2019/07/azure-239x300.png" />](https://azure.microsoft.com/en-us/)
 
 [<img align="left" alt="ibm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png" />](https://www.ibm.com/cloud)
 
