@@ -10,7 +10,7 @@
 ##### - 📚 Novel + Music 🎶 ---> My kind of chill.
 
 #### My interests 😎
-- Web🕸Development ... Application📲Development ... Software Development🤩... 📑 DataBase 📦 ... ☁️Cloud🌨Computing ...📊 DataScience 📈.   
+- FullStack 🖥 Developer...Web🕸Development ... Application📲Development ... Software Development🤩... 📑 DataBase 📦 ... ☁️Cloud🌨Computing ...📊 DataScience 📈.   
 
 
 
