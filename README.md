@@ -29,9 +29,9 @@
 
 [<img align="left" alt="Python" width="27px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
 
-[<img align="left" alt="Java" width="41px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />](https://www.php.net/docs.php)
+[<img align="left" alt="Java" width="42px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />](https://www.php.net/docs.php)
 
-[<img align="left" alt="HTML5" width="31px" src="https://pngimage.net/wp-content/uploads/2018/06/png-in-html-6.png" />](https://devdocs.io/html/)
+[<img align="left" alt="HTML5" width="33px" src="https://pngimage.net/wp-content/uploads/2018/06/png-in-html-6.png" />](https://devdocs.io/html/)
 
 [<img align="left" alt="CSS3" width="25px" src="https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/" />](https://devdocs.io/css/)
 
@@ -41,7 +41,7 @@
 
 [<img align="left" alt="php" width="31px" src="https://newrelic.com/assets/pages/apm/php/php-elephant-logo-bd4f9d83be8c8563248fe4793f90bae7.png" />](https://www.php.net/docs.php)
 
-[<img align="left" alt="Kotlin" width="28px" src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" />](https://kotlinlang.org)
+[<img align="left" alt="Kotlin" width="25px" src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" />](https://kotlinlang.org)
 
 [<img align="left" alt="Dart" width="40px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/227/landscape/dart-logo.png" />](https://dart.dev)
 
