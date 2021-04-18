@@ -15,7 +15,7 @@
 
 
 #### 📫 How to reach me?
-  ⦿ Check out my [Portfolio](https://elated-borg-3f9e72.netlify.app) 🌐 <br>
+  ⦿ Check out my [Portfolio](https://shubham-shankar.netlify.app) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar-013758198/) 🤝 <br>
   ⦿ Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories) 🤪 <br>
   ⦿ Checkout my video on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0t3hU_6ApIhFVxNhBwHxBQ) 🖥 <br>
