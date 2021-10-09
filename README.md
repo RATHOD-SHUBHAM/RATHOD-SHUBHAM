@@ -10,15 +10,14 @@
 ##### - 📚 Novel + Music 🎶 ---> My kind of chill.
 
 #### My interests 😎
-- FullStack 🖥 Developer...Web🕸Development ... Application📲Development ... Software Development🤩... 📑 DataBase 📦 ... ☁️Cloud🌨Computing ...📊 DataScience 📈.   
-
+- Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing ....   📑 DataBase 📦 ...FullStack 🖥 Developer ... Web🕸Development ... Application📲Development ...  
 
 
 #### 📫 How to reach me?
   ⦿ Check out my [Portfolio](https://shubham-shankar.netlify.app) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar-013758198/) 🤝 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar/) 🤝 <br>
   ⦿ Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories) 🤪 <br>
-  ⦿ Checkout my video on [Youtube](https://www.youtube.com/watch?v=rt32qIoYjYQ&list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI) 🖥 <br>
+  ⦿ Checkout my video on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI) 🖥 <br>
   ⦿ View my certifications [here](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing) 📈🔖 <br>
   ⦿ Shoot Me an [Email](mailto:shubham.uta@gmail.com) 📩 <br>
 
