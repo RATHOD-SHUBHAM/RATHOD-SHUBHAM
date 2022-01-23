@@ -4,7 +4,6 @@
 <p align='center'> ~ You may also know me as <strong>Shubham Shankar !</strong><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p>
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  </h2>
-<!-- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> -->
 
 - Computer Science Grad ...🎓... exploring possiblities 👻 !!!
 
@@ -38,6 +37,7 @@ Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing 
   ⦿ 📈🔖 View my [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
   
 
+<h2> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Tech that interests me..  </h2>
 
 <h3> Language: </h3>
 
@@ -102,8 +102,6 @@ Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing 
 [<img align="left" alt="django" width="40px" src="https://miro.medium.com/max/600/1*grQtRddJZ6pLErj2yeRYPA.png" />](https://www.djangoproject.com)
 
 [<img align="left" alt="flask" width="30px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />](https://flask.palletsprojects.com/en/1.1.x/)
-
-[<img align="left" alt="flutter" width="18px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />](https://flutter.dev)
 
 [<img align="left" alt="laravel" width="30px" src="https://ucarecdn.com/9c22d51e-c92a-4483-8f3a-d16bccd0fb50/" />](https://laravel.com)
 
