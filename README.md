@@ -27,17 +27,17 @@
 
 <h3> 📫 How to reach me? </h3>
 
-  ⦿ 🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)
-  
-  ⦿ 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamshankar/)
-  
-  ⦿ 📩 Shoot Me an [Email](mailto:shubham.uta@gmail.com)
-  
-  ⦿ :octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM)
-  
-  ⦿ :computer: Checkout my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
-  
-  ⦿ 📈🔖 View my [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
+    ⦿ 🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)
+
+    ⦿ 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamshankar/)
+
+    ⦿ 📩 Shoot Me an [Email](mailto:shubham.uta@gmail.com)
+
+    ⦿ :octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM)
+
+    ⦿ :computer: Checkout my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
+
+    ⦿ 📈🔖 View my [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
   
 
 <h2 align="center"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Tech that interests me :neckbeard:</h2>
