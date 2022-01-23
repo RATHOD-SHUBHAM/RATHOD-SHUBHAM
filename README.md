@@ -26,7 +26,7 @@ Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing 
 
   ⦿ 🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)
   
-  ⦿ 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar/)
+  ⦿ 🤝 Connect with me on [LinkedIn](www.linkedin.com/in/shubhamshankar)
   
   ⦿ 📩 Shoot Me an [Email](mailto:shubham.uta@gmail.com)
   
