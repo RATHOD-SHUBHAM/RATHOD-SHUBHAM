@@ -23,16 +23,17 @@ Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing 
 
 
 <h3> 📫 How to reach me? </h3>
-  ⦿ 🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)/
-  ⦿ 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar/)
+  ⦿  🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)
   
-  ⦿ 📩 Shoot Me an [Email](mailto:shubham.uta@gmail.com)
+  ⦿  🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar/)
   
-  ⦿ :octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories)
+  ⦿  📩 Shoot Me an [Email](mailto:shubham.uta@gmail.com)
   
-  ⦿ :computer: Checkout my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
+  ⦿  :octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories)
   
-  ⦿ 📈🔖 View my certifications [here](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
+  ⦿  :computer: Checkout my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
+  
+  ⦿  📈🔖 View my [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
   
 
 
