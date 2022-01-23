@@ -21,10 +21,10 @@
 
 <h3 align="right">🐵 I like 🦦 </h3>
 
-<p align = "right"> * 🐒 Data Science. </p>
-<p align = "right"> * 🐸 Software Development. </p>
-<p align = "right"> * :trollface: Full Stack Development. </p>
-<p align = "right"> * :neckbeard: Cloud Computing🌩.. </p>
+<p align = "right"> 🐒 Data Science. </p>
+<p align = "right"> 🐸 Software Development. </p>
+<p align = "right"> :trollface: Full Stack Development. </p>
+<p align = "right"> :neckbeard: Cloud Computing🌩.. </p>
 <!-- * 🐒 Data Science.
 * 🐸 Software Development.
 * :trollface: Full Stack Development.
