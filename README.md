@@ -10,14 +10,14 @@
 - A Developer .. 🤠
 - Check out my Repo for some cool content! .. 🤓
 
-<h3 align="center"> - ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
-<h3 align="center"> - 📚 Novel + Music 🎶 ---> My kind of chill. </h3>
+<h4 align="center"> ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
+<h4 align="center"> 📚 Novel + Music 🎶 ---> My kind of chill. </h3>
 
-#### My interests 😎
+<h3> My interests 😎 </h3>
 - Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing ....   📑 DataBase 📦 ...FullStack 🖥 Developer ... Web🕸Development ... Application📲Development ...  
 
 
-#### 📫 How to reach me?
+<h3> 📫 How to reach me? </h3>
   ⦿ Check out my [Portfolio](https://shubham-shankar.netlify.app) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar/) 🤝 <br>
   ⦿ Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories) 🤪 <br>
@@ -26,7 +26,7 @@
   ⦿ Shoot Me an [Email](mailto:shubham.uta@gmail.com) 📩 <br>
 
 
-#### Language:
+<h3> Language: </h3>
 [<img align="left" alt="Python" width="27px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
 
 [<img align="left" alt="C" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://devdocs.io/c/)
@@ -45,7 +45,7 @@
 <br />
 
 
-#### Database:
+<h3> Database: </h3>
 
 [<img align="left" alt="mongo" width="30px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png" />](https://www.mongodb.com)
 
@@ -55,7 +55,7 @@
 <br />
 
 
-#### Library:
+<h3> Library: </h3>
 
 [<img align="left" alt="react" width="26px" src="https://i.pinimg.com/originals/84/b1/06/84b1065e798f61aa80b8670a4b6fbb4d.png" />](https://reactjs.org)
 
@@ -81,7 +81,7 @@
 <br />
 
 
-#### Framework:
+<h3> Framework: </h3>
 
 [<img align="left" alt="angular" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwUXD17prFtnvxtGWIzQ6wiktS2AzY0RRo6w&usqp=CAU" />](https://docs.angularjs.org/api)
 
@@ -96,7 +96,7 @@
 <br />
 <br />
 
-#### Cloud:
+<h3> Cloud: </h3>
 
 [<img align="left" alt="Aws" width="30px" src="https://novadba.com/wp-content/uploads/2020/03/aws.png" />](https://aws.amazon.com)
 
