@@ -37,7 +37,7 @@ Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing 
   ⦿ 📈🔖 View my [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
   
 
-<h2> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Tech that interests me..  </h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Tech that interests me :neckbeard:</h2>
 
 <h3> Language: </h3>
 
