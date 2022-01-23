@@ -20,7 +20,7 @@
 
 <h3>🐵 I like 🦦 </h3>
 
-* :squirrel: Data Science.
+* 🐒 Data Science.
 * 🐸 Software Development.
 * :trollface: Full Stack Development.
 * :neckbeard: Cloud Computing🌩.
