@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Hello World,😎 its me Shubham Rathod! 👋 
-<h5><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  You may also know me as <b>Shubham Shankar!</b> 😉 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h5>
+<h5><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">You may also know me as <b>Shubham Shankar!</b><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h5>
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  </h2>
 
