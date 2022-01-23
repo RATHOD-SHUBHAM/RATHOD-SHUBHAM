@@ -24,7 +24,7 @@
 
 
 #### Language:
-[<img data-name="Python" align="left" alt="Python" width="27px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
+[<img align="left" alt="Python" width="27px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
 
 [<img align="left" alt="C" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://devdocs.io/c/)
 
@@ -56,7 +56,7 @@
 
 [<img align="left" alt="react" width="26px" src="https://i.pinimg.com/originals/84/b1/06/84b1065e798f61aa80b8670a4b6fbb4d.png" />](https://reactjs.org)
 
-[<img data-name="NumPy" align="left" alt="numpy" width="30px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />](https://numpy.org)
+[<img align="left" alt="numpy" width="30px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />](https://numpy.org)
 
 [<img align="left" alt="pandas" width="33px" src="https://staging.academy.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />](https://pandas.pydata.org/docs/)
 
