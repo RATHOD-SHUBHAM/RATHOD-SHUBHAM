@@ -5,9 +5,13 @@
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  </h2>
 - Computer Science Grad ...🎓...   exploring possiblities 👻 ...
+
 - 👾 I have a simple goal: Develop products that improve human lives ...
+
 - Data makes me fall in love with it 🖤  ...
+
 - A Developer .. 🤠
+
 - Check out my Repo for some cool content! .. 🤓
 
 <h4 align="center"> ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
