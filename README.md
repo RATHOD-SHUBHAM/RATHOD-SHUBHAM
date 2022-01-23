@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Hello World,😎 its me Shubham Rathod! 👋
+### Hello World,😎 its me Shubham Rathod! 👋 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 ### You could also Know me as -- Shubham Shankar! 😉
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
