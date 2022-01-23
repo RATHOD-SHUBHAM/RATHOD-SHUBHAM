@@ -30,7 +30,7 @@ Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing 
   
   ⦿ 📩 Shoot Me an [Email](mailto:shubham.uta@gmail.com)
   
-  ⦿ :octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories)
+  ⦿ :octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM)
   
   ⦿ :computer: Checkout my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
   
