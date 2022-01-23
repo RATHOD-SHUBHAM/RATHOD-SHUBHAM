@@ -14,7 +14,7 @@
 <h4 align="center"> 📚 Novel + Music 🎶 ---> My kind of chill. </h3>
 
 <h3> My interests 😎 </h3>
-- Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing ....   📑 DataBase 📦 ...FullStack 🖥 Developer ... Web🕸Development ... Application📲Development ...  
+Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing ....   📑 DataBase 📦 ...FullStack 🖥 Developer ... Web🕸Development ... Application📲Development ...  
 
 
 <h3> 📫 How to reach me? </h3>
