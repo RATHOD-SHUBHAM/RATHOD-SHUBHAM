@@ -10,7 +10,7 @@
 - A Developer .. 🤠
 - Check out my Repo for some cool content! .. 🤓
 
-##### - ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜
+<h2 align="center"> - ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h2>
 ##### - 📚 Novel + Music 🎶 ---> My kind of chill.
 
 #### My interests 😎
