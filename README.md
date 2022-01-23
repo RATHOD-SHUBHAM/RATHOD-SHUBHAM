@@ -23,7 +23,7 @@
 * :squirrel: Data Science.
 * 🐸 Software Development.
 * :trollface: Full Stack Development.
-* :neckbeard: Cloud Computing.
+* :neckbeard: Cloud Computing🌩.
 
 <h3> 📫 How to reach me? </h3>
 
