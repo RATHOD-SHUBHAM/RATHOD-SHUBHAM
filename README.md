@@ -18,10 +18,6 @@
 <h4 align="center"> ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
 <h4 align="center"> 📚 Novel + Music 🎶 ---> My kind of chill. </h3>
 
-<h3> My interests 😎 </h3>
-Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing ....   📑 DataBase 📦 ...FullStack 🖥 Developer ... Web🕸Development ... Application📲Development ...  
-
-
 <h3> 📫 How to reach me? </h3>
 
   ⦿ 🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)
