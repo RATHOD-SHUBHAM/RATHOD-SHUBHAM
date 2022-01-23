@@ -23,12 +23,17 @@ Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing 
 
 
 <h3> 📫 How to reach me? </h3>
-  ⦿ Check out my [Portfolio](https://shubham-shankar.netlify.app) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar/) 🤝 <br>
-  ⦿ Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories) 🤪 <br>
-  ⦿ Checkout my video on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI) 🖥 <br>
-  ⦿ View my certifications [here](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing) 📈🔖 <br>
-  ⦿ Shoot Me an [Email](mailto:shubham.uta@gmail.com) 📩 <br>
+  ⦿ 🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)/
+  ⦿ 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar/)
+  
+  ⦿ 📩 Shoot Me an [Email](mailto:shubham.uta@gmail.com)
+  
+  ⦿ :octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories)
+  
+  ⦿ :computer: Checkout my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
+  
+  ⦿ 📈🔖 View my certifications [here](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
+  
 
 
 <h3> Language: </h3>
