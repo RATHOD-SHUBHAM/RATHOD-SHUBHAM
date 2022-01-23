@@ -23,7 +23,7 @@ Software Development🤩 ... 📊 DataScience 📈...  ☁️Cloud🌨Computing 
 
 
 <h3> 📫 How to reach me? </h3>
-  ⦿  🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app) <br>
+  ⦿  🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)
   ⦿  🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar/)<br>
   ⦿  📩 Shoot Me an [Email](mailto:shubham.uta@gmail.com)<br>
   ⦿  :octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories)<br>
