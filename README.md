@@ -18,7 +18,7 @@
 <h4 align="center"> ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
 <h4 align="center"> 📚 Novel + Music 🎶 ---> My kind of chill. </h3>
 
-<h3> I like 🦦 </h3>
+<h3>🐵 I like 🦦 </h3>
 
 * :squirrel: Data Science.
 * 🐸 Software Development.
