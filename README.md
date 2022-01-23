@@ -1,4 +1,5 @@
 ### Hello World,😎 its me Shubham Rathod! 👋 
+## You could also Know me as Shubham Shankar! 😉
 
 - Computer Science Grad ...🎓...   exploring possiblities 👻 ...
 - 👾 I have a simple goal: Develop products that improve human lives ...
@@ -23,10 +24,9 @@
 
 
 #### Language:
+[<img name="Python" align="left" alt="Python" width="27px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
 
 [<img align="left" alt="C" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://devdocs.io/c/)
-
-[<img align="left" alt="Python" width="27px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
 
 [<img align="left" alt="Java" width="42px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />](https://www.php.net/docs.php)
 
@@ -38,19 +38,13 @@
 
 [<img align="left" alt="Node.js" width="40px" src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/10/nodejs.png?fit=1240%2C700&ssl=1" />](https://nodejs.org/en/)
 
-[<img align="left" alt="php" width="35px" src="https://newrelic.com/assets/pages/apm/php/php-elephant-logo-bd4f9d83be8c8563248fe4793f90bae7.png" />](https://www.php.net/docs.php)
-
-[<img align="left" alt="Kotlin" width="23px" src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" />](https://kotlinlang.org)
-
-[<img align="left" alt="Dart" width="40px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/227/landscape/dart-logo.png" />](https://dart.dev)
-
 <br />
 <br />
 
 
 #### Database:
 
-[<img align="left" alt="mongo" width="30px" src="https://pbs.twimg.com/profile_images/1234528105819189248/b6F1hk_6.jpg" />](https://www.mongodb.com)
+[<img align="left" alt="mongo" width="30px" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" />](https://www.mongodb.com)
 
 [<img align="left" alt="mysql" width="30px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />](https://www.mysql.com)
 
