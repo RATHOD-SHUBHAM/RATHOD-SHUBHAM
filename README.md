@@ -18,17 +18,15 @@
 <h4 align="center"> ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
 <h4 align="center"> 📚 Novel + Music 🎶 ---> My kind of chill. </h3>
 
+---
 
-<h3 align="right">🐵 I like 🦦 </h3>
 
-<p align = "right"> 🐒 Data Science. </p>
-<p align = "right"> 🐸 Software Development. </p>
-<p align = "right"> :trollface: Full Stack Development. </p>
-<p align = "right"> :neckbeard: Cloud Computing🌩.. </p>
-<!-- * 🐒 Data Science.
+<h3>🐵 I like 🦦 </h3>
+
+* 🐒 Data Science.
 * 🐸 Software Development.
 * :trollface: Full Stack Development.
-* :neckbeard: Cloud Computing🌩. -->
+* :neckbeard: Cloud Computing🌩.
 
 <h3> 📫 How to reach me? </h3>
 
