@@ -28,7 +28,7 @@
 * :trollface: Full Stack Development.
 * :neckbeard: Cloud Computing🌩.
 
-<h3 align="center" > 📫 How to reach me? </h3>
+<h3 align="left" > 📫 How to reach me? </h3>
 
 ⦿ 🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)
 
