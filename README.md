@@ -15,8 +15,8 @@
 
 - Check out my Repo for some cool content! .. 🤓
 
-<h4 align="center"> ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
-<h4 align="center"> 📚 Novel + Music 🎶 ---> My kind of chill. </h3>
+&emsp; <h4> ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
+&emsp; <h4> 📚 Novel + Music 🎶 ---> My kind of chill. </h3>
 
 ---
 
