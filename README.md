@@ -32,7 +32,8 @@
 
 <h3> Articles </h3>
 
-* [Image](https://www.linkedin.com/pulse/image-segmentation-shubham-shankar![image](https://user-images.githubusercontent.com/58945964/175995128-f09ddcd4-d119-4d98-9e93-2e72565cda63.png)
+* [Image]
+* [an inline-style link](https://www.google.com)
 
 
 ---
