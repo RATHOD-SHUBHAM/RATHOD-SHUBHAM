@@ -59,7 +59,7 @@
 <h4 align = "right" > ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
   
 ---
-<h2 align="center"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Tech that interests me</h2>
+<h2 align="center"> Tech that interests me <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </h2>
 
 <h3> Language: </h3>
 
