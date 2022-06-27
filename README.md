@@ -1,7 +1,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Hello World,😎 its me Shubham Rathod! 👋 
-<p align='left'> ~ You may also know me as <strong>Shubham Shankar !</strong><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p>
+<p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p>
+
+<h4 align = "center" > ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  </h2>
 
@@ -15,8 +17,6 @@
 
 - Check out my Repo for some cool content! .. 🤓
 
-<h4 align = "center" > ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
-<h4 align = "center"> 📚 Novel + Music 🎶 ---> My kind of chill. </h3>
 
 ---
 
