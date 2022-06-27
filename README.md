@@ -127,8 +127,7 @@
 
 [<img align="left" alt="laravel" width="30px" src="https://ucarecdn.com/9c22d51e-c92a-4483-8f3a-d16bccd0fb50/" />](https://laravel.com)
 
-[<img align="left" alt="StreamLit" width="30px" src="[https://ucarecdn.com/9c22d51e-c92a-4483-8f3a-d16bccd0fb50/](https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png)" />](https://streamlit.io)
-
+[<img align="left" alt="streamlit" width="30px" src="https://ucarecdn.com/9c22d51e-c92a-4483-8f3a-d16bccd0fb50/" />](https://streamlit.io/)
 <br />
 
 
