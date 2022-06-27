@@ -78,7 +78,7 @@
 [<img align="left" alt="Node.js" width="40px" src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/10/nodejs.png?fit=1240%2C700&ssl=1" />](https://nodejs.org/en/)
 
 <br />
-***
+
 
 
 <h3> Database: </h3>
@@ -88,7 +88,7 @@
 [<img align="left" alt="mysql" width="30px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />](https://www.mysql.com)
 
 <br />
-***
+
 
 
 <h3> Library: </h3>
@@ -114,7 +114,7 @@
 [<img align="left" alt="nltk" width="26px" src="https://i2.wp.com/clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png?resize=592%2C644&ssl=1" />](https://www.nltk.org)
 
 <br />
-***
+
 
 
 <h3> Framework: </h3>
@@ -130,7 +130,7 @@
 [<img align="left" alt="StreamLit" width="30px" src="[https://ucarecdn.com/9c22d51e-c92a-4483-8f3a-d16bccd0fb50/](https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png)" />](https://streamlit.io)
 
 <br />
-***
+
 
 <h3> Cloud: </h3>
 
@@ -141,8 +141,8 @@
 [<img align="left" alt="ibm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png" />](https://www.ibm.com/cloud)
 
 <br />
-***
+
 
 --- 
 
-<p align='center'> ~ With love from <strong>Shubham Shankar !</strong></p>
+<p align='center'> ~ With love from <strong>Shubham Shankar 🖤</strong></p>
