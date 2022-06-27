@@ -3,7 +3,7 @@
 ## Hello World,😎 its me Shubham Rathod! 👋 
 <p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p>
 
-<h4 align = "center" > ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
+---
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  </h2>
 
@@ -55,8 +55,10 @@
 &emsp; ⦿ :computer: Checkout my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
   
 &emsp; ⦿ 📈🔖 View my [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
-  
 
+<h4 align = "right" > ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
+  
+---
 <h2 align="center"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Tech that interests me :neckbeard:</h2>
 
 <h3> Language: </h3>
