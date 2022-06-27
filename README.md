@@ -32,7 +32,7 @@
 
 <h3> Articles </h3>
 
-* [Image Segmentation](https://www.google.com)
+* [Image Segmentation](https://www.google.com](https://www.linkedin.com/pulse/image-segmentation-shubham-shankar)
 * [an inline-style link](https://www.google.com)
 
 
