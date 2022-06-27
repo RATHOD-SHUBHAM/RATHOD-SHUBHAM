@@ -7,7 +7,7 @@
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  </h2>
 
-- Computer Science Grad ...🎓... exploring possiblities 👻 !!!
+- Computer Science Grad 🎓 exploring possiblities 👻 !!!
 
 - I have a simple goal: Develop products that improve human lives .
 
@@ -23,10 +23,10 @@
 
 <h3>I like 🦦 </h3>
 
-* 🐒 Data Science.
-* 🐸 Software Development.
-* :trollface: Full Stack Development.
-* :neckbeard: Cloud Computing🌩.
+* Data Science 🐒.
+* Software Development🐸 .
+* Full Stack Development :trollface:
+* Cloud Computing🌩.
 
 ---
 
@@ -59,7 +59,7 @@
 <h4 align = "right" > ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
   
 ---
-<h2 align="center"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Tech that interests me :neckbeard:</h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Tech that interests me</h2>
 
 <h3> Language: </h3>
 
