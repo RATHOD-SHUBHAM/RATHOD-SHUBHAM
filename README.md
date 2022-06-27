@@ -21,7 +21,7 @@
 ---
 
 
-<h3>I like 🦦 </h3>
+<h3>Areas of interest 🦦 </h3>
 
 * Data Science 🐒.
 * Software Development🐸 .
