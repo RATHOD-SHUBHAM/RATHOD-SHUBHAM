@@ -32,7 +32,7 @@
 
 <h3> Articles </h3>
 
-* [Image]
+* [Image Segmentation](https://www.google.com)
 * [an inline-style link](https://www.google.com)
 
 
