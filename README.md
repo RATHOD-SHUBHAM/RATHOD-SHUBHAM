@@ -31,13 +31,9 @@
 ---
 
 <h3> Articles </h3>
-[Portfolio](https://shubham-shankar.netlify.app)
-* [Image Segmentation.]:(https://www.linkedin.com/pulse/image-segmentation-shubham-shankar)
-* [An Introduction to Topic Modeling with Latent Dirichlet Allocation (LDA).]:(https://www.linkedin.com/pulse/introduction-topic-modeling-latent-dirichlet-lda-natural-shankar)
-* [Custom Classifier using Amazon Comprehend.]:(https://www.linkedin.com/pulse/building-custom-classifier-using-amazon-comprehend-shubham-shankar)
-* [Information Extraction with Natural Language Processing.]:(https://www.linkedin.com/pulse/information-extraction-natural-language-processing-shubham-shankar)
-* [Evaluation Metrics.]:(https://www.linkedin.com/pulse/basic-evaluation-metrics-machine-learning-model-shubham-shankar)
-* [Count Vectorizer and TF-IDF.]:(https://www.linkedin.com/pulse/natural-language-processing-understanding-count-tf-idf-shankar)
+
+* [Image](https://www.linkedin.com/pulse/image-segmentation-shubham-shankar![image](https://user-images.githubusercontent.com/58945964/175995128-f09ddcd4-d119-4d98-9e93-2e72565cda63.png)
+
 
 ---
 
