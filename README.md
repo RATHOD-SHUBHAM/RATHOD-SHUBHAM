@@ -123,11 +123,11 @@
 
 [<img align="left" alt="django" width="40px" src="https://miro.medium.com/max/600/1*grQtRddJZ6pLErj2yeRYPA.png" />](https://www.djangoproject.com)
 
-[<img align="left" alt="flask" width="30px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />](https://flask.palletsprojects.com/en/1.1.x/)
+[<img align="left" alt="flask" width="30px" src="https://d1zx6djv3kb1v7.cloudfront.net/wp-content/media/2018/11/Flask_python_i2tutorials.com_.png" />](https://flask.palletsprojects.com/en/1.1.x/)
 
 [<img align="left" alt="laravel" width="30px" src="https://ucarecdn.com/9c22d51e-c92a-4483-8f3a-d16bccd0fb50/" />](https://laravel.com)
 
-[<img align="left" alt="streamlit" width="30px" src="https://cdn-images-1.medium.com/max/1024/1*u9U3YjxT9c9A1FIaDMonHw.png" />](https://streamlit.io/)
+[<img align="left" alt="streamlit" width="50px" src="https://cdn-images-1.medium.com/max/1024/1*u9U3YjxT9c9A1FIaDMonHw.png" />](https://streamlit.io/)
 <br />
 
 
