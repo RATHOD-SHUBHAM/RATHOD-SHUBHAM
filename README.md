@@ -9,19 +9,19 @@
 
 - Computer Science Grad ...🎓... exploring possiblities 👻 !!!
 
-- 👾 I have a simple goal: Develop products that improve human lives ...
+- I have a simple goal: Develop products that improve human lives .
 
-- Data makes me fall in love with it 🖤  ...
+- Data makes me fall in love with it 🖤 
 
-- A Developer .. 🤠
+- A Developer🤠
 
-- Check out my Repo for some cool content! .. 🤓
+- Check out my Repo for some cool content🤓
 
 
 ---
 
 
-<h3>🐵 I like 🦦 </h3>
+<h3>I like 🦦 </h3>
 
 * 🐒 Data Science.
 * 🐸 Software Development.
@@ -42,7 +42,7 @@
 
 ---
 
-<h3> 📫 How to reach me? </h3>
+<h3> How to reach me? 📫 </h3>
 
 &emsp; ⦿ 🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)
 
