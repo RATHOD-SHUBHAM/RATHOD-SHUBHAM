@@ -39,26 +39,8 @@
 * [Evaluation Metrics](https://www.linkedin.com/pulse/basic-evaluation-metrics-machine-learning-model-shubham-shankar)
 * [Count Vectorizer and TF-IDF](https://www.linkedin.com/pulse/natural-language-processing-understanding-count-tf-idf-shankar)
 
-
 ---
 
-<h3> How to reach me? 📫 </h3>
-
-&emsp; ⦿ 🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)
-
-&emsp; ⦿ 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamshankar/)
-
-&emsp; ⦿ 📩 Shoot Me an [Email](mailto:shubham.uta@gmail.com)
-
-&emsp; ⦿ :octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM)
-
-&emsp; ⦿ :computer: Checkout my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
-  
-&emsp; ⦿ 📈🔖 View my [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
-
-<h4 align = "right" > ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
-  
----
 <h2 align="Left"> Tech Stack <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </h2>
 
 <h3> Language: </h3>
@@ -71,7 +53,6 @@
 ![Node.JS](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 <br />
-
 
 
 <h3> Database: </h3>
@@ -107,5 +88,26 @@
 <br />
 
 --- 
+
+---
+
+<h3> How to reach me? 📫 </h3>
+
+&emsp; ⦿ 🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)
+
+&emsp; ⦿ 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamshankar/)
+
+&emsp; ⦿ 📩 Shoot Me an [Email](mailto:shubham.uta@gmail.com)
+
+&emsp; ⦿ :octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM)
+
+&emsp; ⦿ :computer: Checkout my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
+  
+&emsp; ⦿ 📈🔖 View my [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
+
+<h4 align = "right" > ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
+  
+---
+
 
 <p align='center'> ~ With love from <strong>Shubham Shankar 🖤</strong></p>
