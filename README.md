@@ -90,7 +90,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 ![scipy](https://img.shields.io/badge/-Scipy-000?&logo=scipy)
 ![react](https://img.shields.io/badge/-React-000?&logo=react)
-
 <br />
 
 <h3> Framework: </h3>
