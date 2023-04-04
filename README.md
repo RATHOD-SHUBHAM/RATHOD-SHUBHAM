@@ -11,7 +11,7 @@
 * Computer Science Grad 🎓 exploring possiblities 👻.
 * Have simple goal: Develop products that improve human lives .
 * In love with Data 🖤 
-* Check out my Repo for some cool content🤓
+* Check out my [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/RATHOD-SHUBHAM?tab=repositories) for some cool content🤓
 
 ---
 
