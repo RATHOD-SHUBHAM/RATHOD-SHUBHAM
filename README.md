@@ -37,7 +37,7 @@
 
 <h2 align="Left"> Tech Stack <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </h2>
 
-<h3> Language: </h3>
+#### Language:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
