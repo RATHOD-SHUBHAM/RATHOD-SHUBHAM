@@ -59,7 +59,7 @@
 <h4 align = "right" > ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
   
 ---
-<h2 align="Left"> Technologies <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </h2>
+<h2 align="Left"> Tech Stack <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </h2>
 
 <h3> Language: </h3>
 
@@ -80,33 +80,18 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 <br />
 
-
-
 <h3> Library: </h3>
 
-[<img align="left" alt="react" width="26px" src="https://i.pinimg.com/originals/84/b1/06/84b1065e798f61aa80b8670a4b6fbb4d.png" />](https://reactjs.org)
-
-[<img align="left" alt="numpy" width="30px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />](https://numpy.org)
-
-[<img align="left" alt="pandas" width="33px" src="https://staging.academy.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />](https://pandas.pydata.org/docs/)
-
-[<img align="left" alt="sklearn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />](https://scikit-learn.org/stable/)
-
-[<img align="left" alt="keras" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />](https://keras.io)
-
-[<img align="left" alt="pytorch" width="30px" src="https://pytorch.org/assets/images/pytorch-logo.png" />](https://pytorch.org)
-
-[<img align="left" alt="seabron" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsZzYW4vSHL6u-h-F9nZge4rfvScSMU6CWBA&usqp=CAU" />](https://seaborn.pydata.org)
-
-[<img align="left" alt="matplotlib" width="40px" src="https://matplotlib.org/3.3.0/_images/sphx_glr_logos2_thumb.png" />](https://matplotlib.org)
-
-[<img align="left" alt="turtle" width="26px" src="https://docs.python.org/3/_images/turtle-star.png" />](https://docs.python.org/3/library/turtle.html)
-
-[<img align="left" alt="nltk" width="26px" src="https://i2.wp.com/clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png?resize=592%2C644&ssl=1" />](https://www.nltk.org)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
+![sklearn](https://img.shields.io/badge/-sklearn-000?&logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![scipy](https://img.shields.io/badge/-Scipy-000?&logo=scipy)
+![react](https://img.shields.io/badge/-React-000?&logo=react)
 
 <br />
-
-
 
 <h3> Framework: </h3>
 
@@ -115,14 +100,12 @@
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 <br />
 
-
 <h3> Cloud: </h3>
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=MicrosoftAzure)
 
 <br />
-
 
 --- 
 
