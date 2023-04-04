@@ -8,13 +8,10 @@
 
 <h2> Stuff about me 🦦</h2>
 
-- Computer Science Grad 🎓 exploring possiblities 👻.
-
-- Have simple goal: Develop products that improve human lives .
-
-- In love with Data 🖤 
-
-- Check out my Repo for some cool content🤓
+* Computer Science Grad 🎓 exploring possiblities 👻.
+* Have simple goal: Develop products that improve human lives .
+* In love with Data 🖤 
+* Check out my Repo for some cool content🤓
 
 
 ---
