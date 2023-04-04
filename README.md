@@ -68,12 +68,8 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
 ![Node.JS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)
-
-[<img align="left" alt="HTML5" width="33px" src="https://pngimage.net/wp-content/uploads/2018/06/png-in-html-6.png" />](https://devdocs.io/html/)
-
-[<img align="left" alt="CSS3" width="25px" src="https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/" />](https://devdocs.io/css/)
-
-
+![Node.JS](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 <br />
 
 
