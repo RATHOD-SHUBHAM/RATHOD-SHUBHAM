@@ -1,18 +1,18 @@
 
-## Hello World,<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> its me Shubham Rathod! 👋 
+## Hey There,<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> its me Shubham Rathod! 👋 
 <p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong></p>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-<h2> Little bit about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  </h2>
+---
+
+<h2> Stuff about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  </h2>
 
 - Computer Science Grad 🎓 exploring possiblities 👻.
 
-- I have a simple goal: Develop products that improve human lives .
+- Have simple goal: Develop products that improve human lives .
 
-- Data makes me fall in love with it 🖤 
-
-- A Developer🤠
+- In love with Data 🖤 
 
 - Check out my Repo for some cool content🤓
 
