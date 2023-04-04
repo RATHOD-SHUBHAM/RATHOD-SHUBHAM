@@ -2,7 +2,7 @@
 ## Hey There,<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> its me Shubham Rathod! 👋 
 <p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong></p>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="280" height="auto" />
 
 ---
 
