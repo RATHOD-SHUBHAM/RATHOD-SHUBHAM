@@ -125,10 +125,7 @@
 <h3> Cloud: </h3>
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-
-[<img align="left" alt="azure" width="30px" src="https://integration.team/wp-content/uploads/2019/07/azure-239x300.png" />](https://azure.microsoft.com/en-us/)
-
-[<img align="left" alt="ibm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png" />](https://www.ibm.com/cloud)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=MicrosoftAzure)
 
 <br />
 
