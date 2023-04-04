@@ -75,6 +75,7 @@
 
 
 <h3> Database: </h3>
+
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 <br />
