@@ -2,7 +2,7 @@
 
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka"> -->
 
-<h1 align="center">
+<h1 style="color:Orange;" align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Its+me+Shubham+Rathod..;Nice+to+meet+you!&center=true&size=30">
   </a>
