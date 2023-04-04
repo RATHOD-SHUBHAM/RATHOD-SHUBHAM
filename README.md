@@ -111,21 +111,15 @@
 <h3> Framework: </h3>
 
 ![StreamLit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
-[<img align="left" alt="angular" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwUXD17prFtnvxtGWIzQ6wiktS2AzY0RRo6w&usqp=CAU" />](https://docs.angularjs.org/api)
-
-[<img align="left" alt="django" width="40px" src="https://miro.medium.com/max/600/1*grQtRddJZ6pLErj2yeRYPA.png" />](https://www.djangoproject.com)
-
-[<img align="left" alt="flask" width="80px" src="https://d1zx6djv3kb1v7.cloudfront.net/wp-content/media/2018/11/Flask_python_i2tutorials.com_.png" />](https://flask.palletsprojects.com/en/1.1.x/)
-
-[<img align="left" alt="laravel" width="30px" src="https://ucarecdn.com/9c22d51e-c92a-4483-8f3a-d16bccd0fb50/" />](https://laravel.com)
-
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 <br />
 
 
 <h3> Cloud: </h3>
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=MicrosoftAzure)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=MicrosoftAzure)
 
 <br />
 
