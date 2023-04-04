@@ -1,5 +1,5 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<img align='right' src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 ## Hello World,<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> its me Shubham Rathod! 👋 
 <p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong></p>
