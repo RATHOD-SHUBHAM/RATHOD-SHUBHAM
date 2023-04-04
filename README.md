@@ -6,7 +6,7 @@
 
 ---
 
-<h2> Stuff about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  </h2>
+<h2> Stuff about me 🦦</h2>
 
 - Computer Science Grad 🎓 exploring possiblities 👻.
 
@@ -20,7 +20,7 @@
 ---
 
 
-<h3>Areas of interest 🦦 </h3>
+<h3>Areas of interest <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3>
 
 * Data Science 🐒.
 * Software Development🐸 .
