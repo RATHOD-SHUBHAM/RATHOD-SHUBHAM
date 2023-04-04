@@ -1,4 +1,5 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 ## Hello World,<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> its me Shubham Rathod! 👋 
 <p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong></p>
