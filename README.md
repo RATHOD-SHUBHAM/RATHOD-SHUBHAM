@@ -65,6 +65,8 @@
 
 [<img align="left" alt="Python" width="27px" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" />](https://www.python.org/)
 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
 [<img align="left" alt="C" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://devdocs.io/c/)
 
 [<img align="left" alt="Java" width="42px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />](https://www.php.net/docs.php)
