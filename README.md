@@ -75,11 +75,8 @@
 
 
 <h3> Database: </h3>
-
-[<img align="left" alt="mongo" width="30px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png" />](https://www.mongodb.com)
-
-[<img align="left" alt="mysql" width="30px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />](https://www.mysql.com)
-
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 <br />
 
 
