@@ -37,7 +37,7 @@
 
 <h2 align="Left"> Tech Stack <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </h2>
 
-#### Language
+#### Language 🛠
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -47,12 +47,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 <br />
 
-#### Database
+#### Database 🗃
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 <br />
 
-#### Library
+#### Library 🦖
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
@@ -63,13 +63,13 @@
 ![react](https://img.shields.io/badge/-React-000?&logo=react)
 <br />
 
-#### Framework
+#### Framework 🧨
 ![StreamLit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 <br />
 
-#### Cloud
+#### Cloud 🌩
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=MicrosoftAzure)
 
