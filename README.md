@@ -3,7 +3,6 @@
 <p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong></p>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
----
 
 <h2> Little bit about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  </h2>
 
