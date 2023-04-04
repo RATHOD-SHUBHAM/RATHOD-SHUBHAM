@@ -30,7 +30,7 @@
 
 ---
 
-<h3> 🗂 Articles </h3>
+<h3> Articles 🗂 </h3>
 
 * [Image Segmentation](https://www.linkedin.com/pulse/image-segmentation-shubham-shankar)
 * [An Introduction to Topic Modeling with Latent Dirichlet Allocation](https://www.linkedin.com/pulse/introduction-topic-modeling-latent-dirichlet-lda-natural-shankar)
@@ -88,8 +88,6 @@
 <br />
 
 --- 
-
----
 
 <h3> How to reach me? 📫 </h3>
 
