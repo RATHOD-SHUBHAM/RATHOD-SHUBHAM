@@ -4,6 +4,14 @@
 ## Hello World,<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> its me Shubham Rathod! 👋 
 <p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong></p>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Shubham+here....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 ---
 
 <h2> Little bit about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  </h2>
