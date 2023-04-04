@@ -15,12 +15,27 @@
 
 ---
 
-<h2>Areas of interest <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-* Data Science 🐒.
-* Software Development🐸 .
-* Full Stack Development :trollface:
-* Cloud Computing🌩.
+
+class AreasOfInterest:
+
+    def __init__(self):
+        self.role = "Machine Learning Engineer"
+        self.current_favourite = ["Generative AI", "AWS Cloud"]
+
+    def favourite(self):
+        print("Data Science.")
+        print("Software Development.")
+        print("Cloud Computing.")
+        print("Full Stack Development.")
+
+
+me = AreasOfInterest()
+me.favourite()
+```
 
 ---
 
