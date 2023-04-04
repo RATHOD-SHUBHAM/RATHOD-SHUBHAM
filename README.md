@@ -29,7 +29,7 @@ class AreasOfInterest:
         self.current_favourite = ["Generative AI", "AWS Cloud"]
 
     def favourite(self):
-        favourite_topic = ['Data Science', 'Cloud Computing', 'Blockchain', Software Engineering LifeCycle', 'Full Stack Development']
+        favourite_topic = ['Data Science', 'Cloud Computing', 'Blockchain', 'Software Engineering/Development', 'Full Stack Development']
         
         for fav_top in favourite_topic:
             print(" These are my all time", fav_top)
