@@ -1,6 +1,8 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka"> -->
+<!-- ## Hello World,<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> its me Shubham Rathod! 👋 
+<p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong></p>
+ -->
 
 <h1 style="color:orange;" align="center">
   <a href="https://git.io/typing-svg">
