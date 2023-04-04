@@ -110,6 +110,7 @@
 
 <h3> Framework: </h3>
 
+![StreamLit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
 [<img align="left" alt="angular" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwUXD17prFtnvxtGWIzQ6wiktS2AzY0RRo6w&usqp=CAU" />](https://docs.angularjs.org/api)
 
 [<img align="left" alt="django" width="40px" src="https://miro.medium.com/max/600/1*grQtRddJZ6pLErj2yeRYPA.png" />](https://www.djangoproject.com)
@@ -118,13 +119,12 @@
 
 [<img align="left" alt="laravel" width="30px" src="https://ucarecdn.com/9c22d51e-c92a-4483-8f3a-d16bccd0fb50/" />](https://laravel.com)
 
-[<img align="left" alt="streamlit" width="80px" src="https://cdn-images-1.medium.com/max/1024/1*u9U3YjxT9c9A1FIaDMonHw.png" />](https://streamlit.io/)
 <br />
 
 
 <h3> Cloud: </h3>
 
-[<img align="left" alt="Aws" width="30px" src="https://novadba.com/wp-content/uploads/2020/03/aws.png" />](https://aws.amazon.com)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 [<img align="left" alt="azure" width="30px" src="https://integration.team/wp-content/uploads/2019/07/azure-239x300.png" />](https://azure.microsoft.com/en-us/)
 
