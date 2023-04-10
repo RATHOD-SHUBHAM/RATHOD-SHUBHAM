@@ -17,7 +17,7 @@
 
 ---
 
-<h2> Area of Interest 🦖 </h2>
+<h2> Area of Interest 🐍 </h2>
 
 ```python
 #!/usr/bin/python
