@@ -47,10 +47,10 @@ if __name__ == '__main__':
 
 <h3> Articles 🗂 </h3>
 
+* [Information Extraction with Natural Language Processing](https://www.linkedin.com/pulse/information-extraction-natural-language-processing-shubham-shankar)
 * [Image Segmentation](https://www.linkedin.com/pulse/image-segmentation-shubham-shankar)
 * [An Introduction to Topic Modeling with Latent Dirichlet Allocation](https://www.linkedin.com/pulse/introduction-topic-modeling-latent-dirichlet-lda-natural-shankar)
 * [Custom Classifier using Amazon Comprehend](https://www.linkedin.com/pulse/building-custom-classifier-using-amazon-comprehend-shubham-shankar)
-* [Information Extraction with Natural Language Processing](https://www.linkedin.com/pulse/information-extraction-natural-language-processing-shubham-shankar)
 * [Evaluation Metrics](https://www.linkedin.com/pulse/basic-evaluation-metrics-machine-learning-model-shubham-shankar)
 * [Count Vectorizer and TF-IDF](https://www.linkedin.com/pulse/natural-language-processing-understanding-count-tf-idf-shankar)
 
