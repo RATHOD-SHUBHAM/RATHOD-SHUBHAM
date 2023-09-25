@@ -8,8 +8,8 @@
 
 <h2> About me 🦦</h2>
 
-* Data Scientist 🥸.
-* Computer Science Grad 🎓 exploring possiblities 👻.
+* Data Scientist 🥸 exploring possiblities 👻.
+* Computer Science Grad 🎓.
 * Have a simple goal: Develop products that improve human lives.
 * In love with Data 🖤 
 * Check out my repo for some cool content 🤠.
