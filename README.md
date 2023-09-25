@@ -87,6 +87,7 @@ if __name__ == '__main__':
 
 ### 🧨 Framework
 ![StreamLit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 <br />
