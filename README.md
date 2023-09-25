@@ -8,10 +8,11 @@
 
 <h2> About me 🦦</h2>
 
+* Data Scientist 🥸.
 * Computer Science Grad 🎓 exploring possiblities 👻.
-* Have simple goal: Develop products that improve human lives .
+* Have a simple goal: Develop products that improve human lives.
 * In love with Data 🖤 
-* Check out my repo for some cool content🤓
+* Check out my repo for some cool content 🤠.
 
     [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/RATHOD-SHUBHAM?tab=repositories) , ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 
