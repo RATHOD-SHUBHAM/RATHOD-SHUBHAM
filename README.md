@@ -14,7 +14,7 @@
 * In love with Data 🖤 
 * Check out my repo for some cool content 🤠.
 
-    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/RATHOD-SHUBHAM?tab=repositories) , ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/RATHOD-SHUBHAM?tab=repositories) , ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c), ![Articles](https://img.shields.io/badge/-Articles-181717?style=flat-square&logo=linkedIn&logoColor=white&link=https://www.linkedin.com/in/shubhamshankar/recent-activity/articles/)
 
 ---
 
@@ -109,6 +109,8 @@ if __name__ == '__main__':
 &emsp; ⦿ 📩 Shoot Me an [Email](mailto:shubham.uta@gmail.com)
 
 &emsp; ⦿ :octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM)
+
+&emsp; ⦿ 📝 Read my Articles [here](https://www.linkedin.com/in/shubhamshankar/recent-activity/articles/)
 
 &emsp; ⦿ :computer: Checkout my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
   
