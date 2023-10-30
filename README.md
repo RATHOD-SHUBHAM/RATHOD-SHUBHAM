@@ -1,5 +1,5 @@
 
-## Hey There,<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> its me Shubham Rathod! 👋 
+##  👋 Hey there! It's me Shubham Rathod!
 <p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong></p>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
@@ -7,12 +7,12 @@
 ---
 
 <h2> About me 🦦</h2>
-
-* Data Scientist 🥸 exploring possiblities 👻.
+ 
+* I'm a passionate data scientist 😎 exploring possibilities.
 * Computer Science Grad 🎓.
-* Have a simple goal: Develop products that improve human lives.
-* In love with Data 🖤 
-* Check out my repo for some cool content 🤠.
+* I have a simple goal: Develop products that improve human lives.
+* My journey in the world of data began with a curiosity for uncovering hidden patterns and a desire to solve real-world problems.
+* Check out my repo for some cool content 🤠. Let's explore the data-driven world together! 🚀
 
     [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/RATHOD-SHUBHAM?tab=repositories) , ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c), [![Articles](https://img.shields.io/badge/-Articles-181717?style=flat-square&logo=linkedIn&logoColor=white&link=https://www.linkedin.com/in/shubhamshankar/recent-activity/articles/)](https://www.linkedin.com/in/shubhamshankar/recent-activity/articles/)
 
@@ -32,7 +32,7 @@ class AreasOfInterest:
         self.current_favourite = ["Generative AI", "AWS Cloud"]
 
     def favourite(self):
-        favourite_topic = ['Data Science', 'Cloud Computing', 'Blockchain', 'Software Engineering/Development', 'Full Stack Development', 'System Design']
+        favourite_topic = ['Data Science', 'System Design', 'Algorithms & Data Structure', 'Cloud Computing', 'Software Engineering/Development', 'Full Stack Development']
         
         for fav_top in favourite_topic:
             print(" These are my all time", fav_top)
