@@ -55,6 +55,10 @@ if __name__ == '__main__':
 * [Evaluation Metrics](https://www.linkedin.com/pulse/basic-evaluation-metrics-machine-learning-model-shubham-shankar)
 * [Count Vectorizer and TF-IDF](https://www.linkedin.com/pulse/natural-language-processing-understanding-count-tf-idf-shankar)
 
+<h3> Paper 🗂 </h3>
+
+* [AI Based Vehicle Damage Detection](https://drive.google.com/drive/u/5/my-drive)
+
 ---
 
 <h2 align="Left"> Tech Stack <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </h2>
