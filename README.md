@@ -57,7 +57,7 @@ if __name__ == '__main__':
 
 <h3> Paper 🗂 </h3>
 
-* [AI Based Vehicle Damage Detection](https://drive.google.com/drive/u/5/my-drive)
+* [AI-Based Vehicle Damage Detection](https://drive.google.com/file/d/1tsBq4zvhk289LPREJhFJzrf_7iI79vjr/view?usp=drive_link)
 
 ---
 
