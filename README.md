@@ -1,11 +1,11 @@
 ##  👋 Hey there! It's me Shubham Rathod!
 <p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong></p>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
-
 ---
-
 <h2 align='left'>About Me 🦦</h2>
+
+
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
 
 * I'm a passionate data scientist 😎 exploring possibilities.
 * Computer Science Grad 🎓.
