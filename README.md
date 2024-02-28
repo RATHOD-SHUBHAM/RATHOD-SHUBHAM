@@ -1,4 +1,3 @@
-
 ##  👋 Hey there! It's me Shubham Rathod!
 <p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong></p>
 
