@@ -4,9 +4,8 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
 
 ---
+<h2 align='left'>About Me 🦦</h2>
 
-<h2> About me 🦦</h2>
- 
 * I'm a passionate data scientist 😎 exploring possibilities.
 * Computer Science Grad 🎓.
 * I have a simple goal: Develop products that improve human lives.
