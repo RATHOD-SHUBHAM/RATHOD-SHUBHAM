@@ -5,7 +5,7 @@
 
 <h2 align='left'>About Me 🦦</h2>
 
-<img src="https://github.com/RATHOD-SHUBHAM/RATHOD-SHUBHAM/assets/58945964/27ffaeee-2fdb-4853-a462-5f11331d92a9" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://github.com/RATHOD-SHUBHAM/RATHOD-SHUBHAM/assets/58945964/27ffaeee-2fdb-4853-a462-5f11331d92a9" alt="side Image" align="right" width="250" height="auto" />
 
 * I'm a passionate data scientist 😎 exploring possibilities.
 * Computer Science Grad 🎓.
