@@ -105,7 +105,7 @@ if __name__ == '__main__':
 
 <h2> Looking for me? 📫 </h2>
 
-&emsp; ⦿ 🌐 Check out my [Portfolio](https://shubham-shankar.netlify.app)
+&emsp; ⦿ 🌐 Check out my [Portfolio](https://shubhamshankar.dorik.io/)
 
 &emsp; ⦿ 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamshankar/)
 
