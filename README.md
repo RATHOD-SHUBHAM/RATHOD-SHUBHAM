@@ -64,7 +64,7 @@ if __name__ == '__main__':
 
 ### 🛠 Language
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
 ![Node.JS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)
