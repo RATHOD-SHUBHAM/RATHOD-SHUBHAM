@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71413&width=435&lines=Hello+%F0%9F%91%8B%2C+Shubham+Rathod+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a6f54c&width=435&lines=Hello+%F0%9F%91%8B%2C+Shubham+Rathod+here.)](https://git.io/typing-svg)
 <p align='right'> ~ You may also know me as <strong>Shubham Shankar !</strong></p>
 
 ---
