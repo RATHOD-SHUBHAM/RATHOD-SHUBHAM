@@ -62,7 +62,7 @@ if __name__ == '__main__':
 
 🏎️ [AI-Based Vehicle Damage Detection](https://drive.google.com/file/d/1tsBq4zvhk289LPREJhFJzrf_7iI79vjr/view?usp=drive_link)
 
----
+<br>
 
 <h2 style="margin: 0;"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"> Tech Stack</h2>
 
@@ -78,9 +78,9 @@ if __name__ == '__main__':
 
 🦜 <strong>Framework</strong>: ![StreamLit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 
---- 
+<br>
 
-## 📫 Looking for me?
+<h2>📫 Looking for me?</h2>
 
 🌐 Explore my [Portfolio](https://shubhamshankar.dorik.io/)
 
@@ -101,4 +101,4 @@ if __name__ == '__main__':
 ---
 
 
-<p align='center'> ~ With love from <strong>Shubham Shankar 🖤</strong></p>
+<p align='center'> - With love from <strong>Shubham Shankar 🖤</strong></p>
