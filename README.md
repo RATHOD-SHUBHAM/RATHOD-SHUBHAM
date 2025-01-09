@@ -64,74 +64,39 @@ if __name__ == '__main__':
 
 ---
 
-<h3 align="Left"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="15"> Tech Stack</h3>
+<h2 style="margin: 0;"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"> Tech Stack</h2>
 
-<p align="left" ">🛠 <strong>Language</strong></p>
+🛠 <strong>Language</strong>: ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=%2300FF00&labelColor=%23FFFFF) ![C++](https://img.shields.io/badge/-C%2B%2B-black?logo=cplusplus&logoColor=%2345b3e0&labelColor=%23FFFFF) ![JavaScript](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
-![JavaScript](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
-![Node.JS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)
-![Node.JS](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-<br />
+🌩 <strong>Cloud</strong>: ![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon&logoColor=%23FF9900&labelColor=%23FFFFF) ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=MicrosoftAzure)
 
-<p align="left" ">🌩<strong>Cloud</strong></p>
+🐳 <strong>Tools</strong>: ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&logoColor=%23FFFFFF&labelColor=%2345b3e0) ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman&logoColor=%23FF6C37&labelColor=%23FFFFF) ![Ollama](https://img.shields.io/badge/-Ollama-black?logo=ollama&logoColor=%23FFFFFF)
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=MicrosoftAzure)
-<br />
+🗃 <strong>Database</strong>: ![SQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColor=%234479A1&labelColor=%23f4f4f4) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
-<p align="left" ">🗃 <strong>Database</strong></p>
+🦖 <strong>Library</strong>: ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch) ![Langchain](https://img.shields.io/badge/-Langchain-black?logo=langchain&logoColor=%23FFFFFF&labelColor=%2306402B) ![react](https://img.shields.io/badge/-React-000?&logo=react)
 
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-<br />
-
-<p align="left" ">🦖 <strong>Library</strong></p>
-
-![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
-![sklearn](https://img.shields.io/badge/-sklearn-000?&logo=scikit-learn)
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
-![scipy](https://img.shields.io/badge/-Scipy-000?&logo=scipy)
-![react](https://img.shields.io/badge/-React-000?&logo=react)
-<br />
-
-### 🧨 Framework
-![StreamLit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
-<br />
-
-### 🌩 Cloud
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=MicrosoftAzure)
-
-<br />
+🦜 <strong>Framework</strong>: ![StreamLit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 
 --- 
 
-<h2> Looking for me? 📫 </h2>
+## 📫 Looking for me?
 
-&emsp; ⦿ 🌐 Check out my [Portfolio](https://shubhamshankar.dorik.io/)
+🌐 Explore my [Portfolio](https://shubhamshankar.dorik.io/)
 
-&emsp; ⦿ 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamshankar/)
+🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamshankar/)
 
-&emsp; ⦿ 📩 Shoot Me an [Email](mailto:shubham.uta@gmail.com)
+📩 Send Me an [Email](mailto:shubham.uta@gmail.com)
 
-&emsp; ⦿ :octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM)
+:octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM)
 
-&emsp; ⦿ 📝 Read my Articles [here](https://www.linkedin.com/in/shubhamshankar/recent-activity/articles/)
+📝 Read my [Articles](https://www.linkedin.com/in/shubhamshankar/recent-activity/articles/)
 
-&emsp; ⦿ :computer: Checkout my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
+:computer: Watch my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
   
-&emsp; ⦿ 📈🔖 View my [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
+🔖 Browse my [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
 
-<h4 align = "right" > ⚡ Fun fact: ... I write poems🎶 ... Do reach out if you find that enchanting😜 </h3>
+<p align = "right" > ⚡ Fun Fact: I write poems 🎶. Feel free to reach out if that sparks your interest 😜 </p>
   
 ---
 
