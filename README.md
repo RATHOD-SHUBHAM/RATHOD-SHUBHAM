@@ -99,6 +99,3 @@ if __name__ == '__main__':
 <p align = "right" > ⚡ Fun Fact: I write poems 🎶. Feel free to reach out if that sparks your interest 😜 </p>
   
 ---
-
-
-<p align='center'> - With love from <strong>Shubham Shankar 🖤</strong></p>
