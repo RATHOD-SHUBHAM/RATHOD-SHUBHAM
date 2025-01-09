@@ -96,6 +96,6 @@ if __name__ == '__main__':
   
 🔖 Browse my [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
 
-<p align = "right" > ⚡ Fun Fact: I write poems 🎶. Feel free to reach out if that sparks your interest 😜 </p>
+<p align = "center" > ⚡ Fun Fact: I write poems 🎶. Feel free to reach out if that sparks your interest 😜 </p>
   
 ---
