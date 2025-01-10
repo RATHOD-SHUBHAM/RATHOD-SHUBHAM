@@ -82,19 +82,17 @@ if __name__ == '__main__':
 
 <h2>📫 Looking for me?</h2>
 
-🌐 Explore my [Portfolio](https://shubhamshankar.dorik.io/)
 
-🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamshankar/)
+| **Action**                             | **Link**                                       |
+|----------------------------------------|-----------------------------------------------|
+| 🌐 Explore my                          | [Portfolio](https://shubhamshankar.dorik.io/)                           |
+| 🤝 Connect with me on                  | [LinkedIn](https://www.linkedin.com/in/shubhamshankar/)                                 |
+| 📩 Send Me an                          | [Email](mailto:shubham.uta@gmail.com)                                   |
+| :octocat: Follow me on                 | [Github](https://github.com/RATHOD-SHUBHAM)                                |
+| 📝 Read my                             | [Articles](https://www.linkedin.com/in/shubhamshankar/recent-activity/articles/)                               |
+| :computer: Watch my presentation on    | [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)                                |
+| 🔖 Browse my                           | [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)                         |
 
-📩 Send Me an [Email](mailto:shubham.uta@gmail.com)
-
-:octocat: Follow me on [Github](https://github.com/RATHOD-SHUBHAM)
-
-📝 Read my [Articles](https://www.linkedin.com/in/shubhamshankar/recent-activity/articles/)
-
-:computer: Watch my presentation on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0QBbFJBpZKFesEWhxbizlI)
-  
-🔖 Browse my [certifications](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing)
 
 <p align = "center" > ⚡ Fun Fact: I write poems 🎶. Feel free to reach out if that sparks your interest 😜 </p>
   
